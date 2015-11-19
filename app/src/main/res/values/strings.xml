@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bloggyme</string>
+
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="settings">SETTINGS</string>
+</resources>
