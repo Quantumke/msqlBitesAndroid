@@ -19,7 +19,7 @@ public class Splash extends Activity {
             @Override
             public void run() {
                 // Start your app main activity
-                Intent i = new Intent(Splash.this, MainActivity.class);
+                Intent i = new Intent(Splash.this, DefaultIntro.class);
                 startActivity(i);
 
                 // close this activity
